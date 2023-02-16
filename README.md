@@ -63,7 +63,8 @@ Mapa Conceptual:
 
 
 
-CONCLUSIONES.-
+# CONCLUSIONES.-
+
 Mediante la práctica se observo el comportamiento de la onda senoidal y sus características las se pueden obtener mediante cálculos y analizar los valor de cada una se observar la diferencia de voltaje rms y voltaje pico al momento de realizar la práctica y comparar las mediciones con el osciloscopio y el multímetro digital.
 
 El Simulador MULTISIN resulta muy eficiaz para realizar mediciones con Osciloscopio por su exactitud y presición en las mediciones dadas.
